@@ -1,6 +1,6 @@
 # minimal-setup-guide-mern-heroku
 
-Hello Beautiful Developers :smiley: This is our minimal setup for mern stack app with Heroku hosting
+Hello Beautiful Developers :smiley: This is our minimal setup guide for mern stack app with Heroku hosting
 
 ## Initialize Your Project with npm
 ```
